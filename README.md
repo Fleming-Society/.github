@@ -1,16 +1,16 @@
 Hi, I’m @Junzhe-Chen
 
-I am currently an undergraduate student at UCL, major in Electronics and Electrical Engineering. Also, I am the President of UCL Fleming Society, which runs some interesting EEE project workshops and hackathons
+I am an undergraduate at UCL, majoring in Electronics and Electrical Engineering. Also, I am the President of the UCL Fleming Society, which runs some engaging EEE project workshops and hackathons.
 
-I’m interested in Analog Circuit Design, PCB design and Embedded System. Sometimes I do some MATLAB program to help with my labworks and research Some of my projects includes:
+I’m interested in Analog Circuit Design, PCB design and Embedded Systems. Sometimes I do some MATLAB programs to help with my labwork and research. Some of my projects include:
 - Fully Discrete Analog PWM Modulator with Adjustable Frequency
-- TPA3116 based Class D Audio Amplifier
+- TPA3116-based Class D Audio Amplifier
 - Cross Bias Referenced Class G Amplifier
-- MATLAB Instrument Control Program that read and analyse data directly from the scope
+- MATLAB Instrument Control Program that reads and analyse data directly from the scope
 
-I am still quite new to GitHub, but I will put those projects on and make them fully open source slowly.
+I am still relatively new to GitHub, but I will slowly put those projects on and make them fully open-source.
 
-I’m currently learning Python, Embedded C and Verilog. Also, I am learning some basic website development and cllaborating with my friends to build a website for the Fleming Society. I will leave a link once we get the domain and the host server ready. 
+I’m currently learning Python, Embedded C and Verilog. Also, I am learning some essential website development and collaborating with my friends to build a website for the Fleming Society. I will leave a link once the domain and host server are ready. 
 
 How to reach me:
 - Via email (preferred) junzhe_chen@outlook.com
