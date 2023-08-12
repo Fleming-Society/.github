@@ -1,6 +1,6 @@
-Hi, I’m @Junzhe-Chen
+Hi, I’m Junzhe Chen
 
-I am an undergraduate at UCL, majoring in Electronics and Electrical Engineering. Also, I am the President of the UCL Fleming Society, which runs some engaging EEE project workshops and hackathons.
+I'm an undergraduate at UCL, majoring in Electronics and Electrical Engineering. Also, I am the President of the UCL Fleming Society, which runs some engaging EEE project workshops and hackathons.
 
 I’m interested in Analog Circuit Design, PCB design and Embedded Systems. Sometimes I do some MATLAB programs to help with my labwork and research. Some of my projects include:
 - Fully Discrete Analog PWM Modulator with Adjustable Frequency
