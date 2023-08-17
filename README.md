@@ -6,7 +6,7 @@ I’m interested in Analog Circuit Design, PCB design and Embedded Systems. Some
 - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
   - [MATLAB PWM Modulator](https://github.com/Junzhe-Chen/PWM-modulator-demo)
 - Breadboard size obstacle avoiding car (ongoing)
-- TPA3116-based Class D Audio Amplifier
+- [TPA3116-based Class D Audio Amplifier](https://oshwlab.com/jc040226/tpa3116-amplifier)
 - Cross Bias Referenced Class G Amplifier
 - MATLAB Instrument Control Program that reads and analyse data directly from the scope
 
