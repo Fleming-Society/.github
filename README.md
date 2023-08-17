@@ -3,7 +3,9 @@ Hi, I’m Junzhe Chen
 I'm an undergraduate at UCL, majoring in Electronics and Electrical Engineering. Also, I am the President of the UCL Fleming Society, which runs some engaging EEE project workshops and hackathons.
 
 I’m interested in Analog Circuit Design, PCB design and Embedded Systems. Sometimes I do some MATLAB programs to help with my labwork and research. Some of my projects include:
-- Fully Discrete Analog PWM Modulator with Adjustable Frequency
+- [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
+  - [MATLAB PWM Modulator](https://github.com/Junzhe-Chen/PWM-modulator-demo)
+- Breadboard size obstacle avoiding car (ongoing)
 - TPA3116-based Class D Audio Amplifier
 - Cross Bias Referenced Class G Amplifier
 - MATLAB Instrument Control Program that reads and analyse data directly from the scope
@@ -15,8 +17,3 @@ I’m currently learning Python, Embedded C and Verilog. Also, I am learning som
 How to reach me:
 - Via email (preferred) junzhe_chen@outlook.com
 - My LinkedIn page: [LinkedIn](https://www.linkedin.com/in/junzhe-chen)
-
-<!---
-Junzhe-Chen/Junzhe-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
