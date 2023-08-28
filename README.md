@@ -5,7 +5,7 @@ I'm an undergraduate at UCL, majoring in Electronics and Electrical Engineering.
 I’m interested in Analog Circuit Design, PCB design and Embedded Systems. Sometimes I do some MATLAB programs to help with my labwork and research. Some of my projects include:
 - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
   - [MATLAB PWM Modulator](https://github.com/Junzhe-Chen/PWM-modulator-demo)
-- [Breadboard size obstacle avoiding drone (ongoing, **VERY EARLY work**)](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
+- [Breadboard size obstacle avoiding drone](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
 - [TPA3116-based Class D Audio Amplifier](https://oshwlab.com/jc040226/tpa3116-amplifier)
 - Cross Bias Referenced Class G Amplifier
 - MATLAB Instrument Control Program that reads and analyse data directly from the scope
