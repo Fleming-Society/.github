@@ -1,19 +1,40 @@
-Hi, I’m Junzhe Chen
+ # Introduction
 
-I'm an undergraduate at UCL, majoring in Electronics and Electrical Engineering. Also, I am the President of the UCL Fleming Society, which runs some engaging EEE project workshops and hackathons.
+Hi All,
 
-I’m interested in Analog Circuit Design, PCB design and Embedded Systems. Sometimes I do some MATLAB programs to help with my labwork and research. Some of my projects include:
-- [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
-  - [MATLAB PWM Modulator](https://github.com/Junzhe-Chen/PWM-modulator-demo)
+This is the page for the Fleming Society! 
+
+We are the Electronics and Electrical Engineering Departmental Society at UCL, we do all sorts of EEE related projects. The past project we had held includes:
+- Outreach STEM projects to the six-formers
+- After school club (now Project X)
+
+# Past projects
+
 - [Breadboard size obstacle avoiding drone](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
-- [TPA3116-based Class D Audio Amplifier](https://oshwlab.com/jc040226/tpa3116-amplifier)
-- Cross Bias Referenced Class G Amplifier
-- MATLAB Instrument Control Program that reads and analyse data directly from the scope
+- [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
+- 4 Degrees-of-Freedom Robotic Arm with Configurable Claw (We are currently documenting this project, the documentation will be put on as soon as we finish)
 
-I am still relatively new to GitHub, but I will slowly put those projects on and make them fully open-source.
+# Future projects:
 
-I’m currently learning Python, Embedded C and Verilog. Also, I am learning some essential website development and collaborating with my friends to build a website for the Fleming Society. I will leave a link once the domain and host server are ready. 
+- Audio Amplifier workshop in collaboration with KEF
+- LiDAR automonous robot project
+- Hackathon: making cycling safer (We are finding potential collaborators and sponsor for this project)
 
-How to reach me:
-- Via email (preferred) junzhe_chen@outlook.com
-- My LinkedIn page: [LinkedIn](https://www.linkedin.com/in/junzhe-chen)
+# Members
+## Fleming Society Committee
+Junzhe Chen: President
+Jeremy Chan: Vice President
+Veronika Liutarevich: Treasurer
+Yuxuan Han: Project Manager
+Ziqi Zhang: Project Manager
+Yihan Liao: Project Manager
+Bernardo Awtani: Event Manager
+Joshua Liao: Event Manager
+Sans Xu: Project Manager
+## UCL Faculty
+Dr. Thomoas Gilbert: Society supervisor
+Dr. Chow-Yin Lai
+Muhammad Omer
+## Coalition
+Anniereetha Moses: President of UCL Engineering Society
+
