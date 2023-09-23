@@ -15,7 +15,7 @@ We are the Electronics and Electrical Engineering Departmental Society at UCL, w
 
 - [Breadboard size obstacle avoiding drone](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
 - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
-- 4 Degrees-of-Freedom Robotic Arm with Configurable Claw (We are currently documenting this project, the documentation will be put on as soon as we finish)
+- [4 Degrees-of-Freedom Robotic Arm with Configurable Claw](https://github.com/Fleming-Society/Microservo-Robotic-Arm)
 
 ## Future projects:
 
