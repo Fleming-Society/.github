@@ -28,7 +28,7 @@ We are the Electronics and Electrical Engineering Departmental Society at UCL, w
 - [Junzhe Chen](https://github.com/Junzhe-Chen): President
 - [Jeremy Chan](https://github.com/JeremyC53): Vice President
 - Veronika Liutarevich: Treasurer
-- Yuxuan (Steven) Han: Project Manager
+- [Yuxuan (Steven) Han](https://github.com/VansamaDungeonMaster): Project Manager
 - Ziqi Zhang: Project Manager
 - Yihan (Leo) Liao: Project Manager
 - Bernardo Awtani: Event Manager
