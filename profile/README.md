@@ -33,7 +33,8 @@ We are the Electronics and Electrical Engineering Departmental Society at UCL, w
 - Yihan (Leo) Liao: Project Manager
 - Bernardo Awtani: Event Manager
 - Joshua Liao: Event Manager
-- Chang (Sans) Xu: Project Manager
+- [Louis Kwok](https://github.com/louislfkwok): Website Developer
+- Chang (Sans) Xu: Photographer
 ### UCL Faculty
 - Dr. Thomoas Gilbert: Society supervisor
 - Dr. Chow-Yin Lai
