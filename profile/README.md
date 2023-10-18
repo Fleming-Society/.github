@@ -27,18 +27,13 @@ We are the Electronics and Electrical Engineering Departmental Society at UCL, w
 ### Current Fleming Society Committee
 - [Junzhe Chen](https://github.com/Junzhe-Chen): President
 - [Jeremy Chan](https://github.com/JeremyC53): Vice President
-- Veronika Liutarevich: Treasurer
+- [Louis Kwok](https://github.com/louislfkwok): Treasurer and Website Developer
 - [Yuxuan (Steven) Han](https://github.com/VansamaDungeonMaster): Project Manager
 - Ziqi Zhang: Project Manager
 - Yihan (Leo) Liao: Project Manager
 - Bernardo Awtani: Event Manager
 - Joshua Liao: Event Manager
-- [Louis Kwok](https://github.com/louislfkwok): Website Developer
+- [Simon Zhu](https://github.com/Simonzhu04): Outreach
 - Chang (Sans) Xu: Photographer
-### UCL Faculty
-- Dr. Thomoas Gilbert: Society supervisor
-- Dr. Chow-Yin Lai
-- Muhammad Omer
-### Coalition
-- Anniereetha (Annie) Moses: President of UCL Engineering Society
+
 
