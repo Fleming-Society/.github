@@ -10,11 +10,13 @@ We are the Electronics and Electrical Engineering (EEE) Departmental Society at 
 The past activities we had held includes:
 - Project X - Yearly outreach STEM projects for A-level and GCSE students to local colleges and schools in London
 - Audio Amplifier workshop in collaboration with KEF
+- Radio Workshop and Hike
 - Advanced Design Workshop
 - Battlebots Tournament
+- Soldering Workshops
 - Qualcomm Speaker events
 - Bounty Project Programme
-- Social events - Karaoke, Games/Chess/Poker Nights
+- Social events - Karaoke, Games/Chess/Poker Nights, Go Karting, Sports
 
 ## Past projects
 - [Breadboard size obstacle avoiding drone](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
