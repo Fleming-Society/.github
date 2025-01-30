@@ -10,9 +10,9 @@ We are the Electronics and Electrical Engineering (EEE) Departmental Society at 
 The past activities we had held includes:
 - Project X - Yearly outreach STEM projects for A-level and GCSE students to local colleges and schools in London
 - Audio Amplifier workshop in collaboration with KEF
-- Radio Workshop and Hike
+- Radio Workshop, with residential and hike in the Peak District
 - Advanced Design Workshop
-- Battlebots Tournament
+- Sumobot Tournament (with UCL RoboSoc)
 - Soldering Workshops
 - Qualcomm Speaker events
 - Bounty Project Programme
