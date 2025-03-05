@@ -26,8 +26,9 @@ The past activities we had held includes:
 ## Members
 ### 2024-2025 Committee Members
 - [Bhavy Metakar](https://github.com/UpsidedownFalcon): President
-- [Yung Zhou](https://github.com/Yunghub): Vice President
+- [Yung Cheung Zhou](https://github.com/Yunghub): Vice President
 - Yeow Keng: Treasurer
+- Alice Yeung: Secretary
 - [Junzhe Chen](https://github.com/Junzhe-Chen): Head of Projects
 - [Yuxuan (Steven) Han](https://github.com/VansamaDungeonMaster): Project Manager
 - Xiangyi (Grace) Tan: Project Manager
