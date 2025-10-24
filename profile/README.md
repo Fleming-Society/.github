@@ -1,63 +1,56 @@
 # Welcome to the Fleming Society GitHub Page
 
 ## Introduction
-
 Hello everyone,
 
-This is the UCL Fleming Society.
+This is the UCL Fleming Society. We are the Electronics and Electrical Engineering (EEE) Departmental Society at UCL - with over 600 members, we engaged a total 8,000 student-hours across 42 events in the 2024-25 academic year, making us one of the UK's largest departmental societies.
 
-We are the Electronics and Electrical Engineering (EEE) Departmental Society at UCL, we do all sorts of EEE related projects. 
-The past activities we had held includes:
-- Project X - Yearly outreach STEM projects for A-level and GCSE students to local colleges and schools in London
-- Audio Amplifier workshop in collaboration with KEF
-- Radio Workshop, with residential and hike in the Peak District
-- Advanced Design Workshop
-- Sumobot Tournament (with UCL RoboSoc)
-- Soldering Workshops
-- Qualcomm Speaker events
-- Bounty Project Programme
+[Website](https://flemingsociety.com/) | [Instragram](https://www.instagram.com/ucl.flemingsoc/) | [Linkedin](www.linkedin.com/company/ucl-fleming-society/)
+
+## Past Events
+- Project X (Yearly STEM outreach projects)
+- UCL Combat Robots Teams
+- Workshops - Radio, Modular Synthesisers, Audio Amplifiers
+- Skills Workshops - Soldering, PCB Design, Arduino & Programming
+- Residentials - Peak District, Bournemouth, Devon
+- Careers Events - Qualcomm, Microsoft, TfL, KPMG, etc.
 - Social events - Karaoke, Games/Chess/Poker Nights, Go Karting, Sports
 
-## Past projects
-- [Breadboard size obstacle avoiding drone](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
+## Past Projects
+- [Servo Catapult](https://github.com/Fleming-Society/Servo-Catapult)
+- [Updated Breadboard robot](https://github.com/Fleming-Society/Breadboard-Robot)
+- [Mood Credit Card](github.com/Fleming-Society/Mood-Credit-Card)
+- [Breadboard Size Obstacle Avoiding Drone](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
 - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
 - [4 Degrees-of-Freedom Robotic Arm with Configurable Claw](https://github.com/Fleming-Society/Microservo-Robotic-Arm)
 
-## Members
-### 2024-2025 Committee Members
-- [Bhavy Metakar](https://github.com/UpsidedownFalcon): President
-- [Yung Cheung Zhou](https://github.com/Yunghub): Vice President
-- Yeow Keng: Treasurer
-- Alice Yeung: Secretary
-- [Junzhe Chen](https://github.com/Junzhe-Chen): Head of Projects
-- [Yuxuan (Steven) Han](https://github.com/VansamaDungeonMaster): Project Manager
-- Xiangyi (Grace) Tan: Project Manager
-- Xiyuan (Matthias) Yan: Project Manager
-- [Oli Sharratt](https://github.com/kartelious): Project Manager
-- Raemon Leenahwattana: Project Manager
-- Zechao Che: Head of Events
-- Zongmian Wu: Events Manager
-- Shengxi Cao: Events Manager
-- Fanyi Shen: Events Manager
-- Siyoung Kim: Welfare Manager
-- Zhanwei Liu: Outreach Manager
-- Jenny Zhang: Outreach Manager
-- Nikolas Kostov: Outreach Manager
-- Brooke Wang: Media Manager
-- [Jeremy Chan](https://github.com/JeremyC53): Web Developer
-- Saanvi Bajaj: Web Developer
-- Chang (Sans) Xu: Photographer
+## Committee Members (2025-2026)
+#### Leadership
+- [Yung Cheung Zhou](https://www.linkedin.com/in/yungcz/): President
+- [Alice Yeung](https://www.linkedin.com/in/yeung-chiiok-b27b66272): Vice President
+- [Jack Heah](https://www.linkedin.com/in/jack-heah-2b1b19249/): Treasurer
 
-### 2023-2024 Committee Members
-- [Junzhe Chen](https://github.com/Junzhe-Chen): President
-- [Jeremy Chan](https://github.com/JeremyC53): Vice President
-- [Louis Kwok](https://github.com/louislfkwok): Treasurer and Website Developer
-- [Yuxuan (Steven) Han](https://github.com/VansamaDungeonMaster): Project Manager
-- Ziqi Zhang: Project Manager
-- Yihan (Leo) Liao: Project Manager
-- Bernardo Awtani: Event Manager
-- Joshua Liao: Event Manager
-- [Simon Zhu](https://github.com/Simonzhu04): Outreach
-- Chang (Sans) Xu: Photographer
+- [Bhavy Metakar](https://www.linkedin.com/in/bhavy-metakar/): Advisor
+- [Oli Sharratt](https://www.linkedin.com/in/oli-sharratt/): Advisor
+#### Events
+- Shahd Ahmed: Head of Events
+- [Stef Paraskevopoulos Pilello](https://www.linkedin.com/in/stefanos-paraskevopoulos-pilello-697972280/): Event Manager
+- [Omar Guedira](https://www.linkedin.com/in/omar-guedira/): Event Manager
+- [Mohd Abu Anas Chowdhury](https://www.linkedin.com/in/mohd-abu-anas-chowdhury-99a643373/): Event Manager
+#### Projects
+- Taylan Arslan: Head of Projects
+- [Mohd Abu Anas Chowdhury](https://www.linkedin.com/in/mohd-abu-anas-chowdhury-99a643373/): Project Manager
+- Chloe Yang: Project Manager
+- [Akhilesh Sivananthan](https://www.linkedin.com/in/akhilesh-sivananthan/): Project Manager
+#### Operations
+- [Yan Deng Ong](https://www.linkedin.com/in/yan-deng-ong/): Head of Operations
+- [Ayman Hakiem Hidyatul Khair](https://www.linkedin.com/in/ayman-hakiem-hidyatul-khair-762a4420a/): Welfare Officer & Photographer
+- [Erick Passos](https://www.linkedin.com/in/erickcpassos/): Web Developer
+- Mandy Gong: Media Manager
+- [Akhilesh Sivananthan](https://www.linkedin.com/in/akhilesh-sivananthan/): Outreach Manager
+- Taylan Arslan: Outreach Manager
+- [Dong Liu](https://www.linkedin.com/in/dong-liu-509069348/): Photographer
+
+To see previous committee members, [click here](Past_Committee_Members.md).
 
 
