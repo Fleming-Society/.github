@@ -14,10 +14,10 @@ This is the UCL Fleming Society. We are the Electronics and Electrical Engineeri
 - Skills Workshops - Soldering, PCB Design, Arduino & Programming, Git/GitHub
 - Residentials - Peak District, Bournemouth, Devon, Lake District
 - Careers Events - What I Wish I Knew (WIWIK); Careers Talk Series with Qualcomm, ARM, TfL, KPMG, etc.
-- Social events - Hobby Exchange, Karaoke, Games/Chess/Poker Nights, Go Karting, Retro Games, Paintballing,
+- Social events - Hobby Exchange, Karaoke, Games/Chess/Poker Nights, Go Karting, Retro Games
 - Student Support - Bring Your Own Projects (BYOP), mentorship and guidance from the committee
 - Hackathons - HackLondon, Neurovision
-- Collaborations - with a range of UCL societies, and colleges in London
+- Collaborations - with a range of UCL societies, and other London universities
 
 ## Past Projects
 - [Servo Catapult](https://github.com/Fleming-Society/Servo-Catapult)
