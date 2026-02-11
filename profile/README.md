@@ -33,8 +33,8 @@ This is the UCL Fleming Society. We are the Electronics and Electrical Engineeri
 - [Alice Yeung](https://www.linkedin.com/in/yeung-chiiok-b27b66272): Vice President
 - [Jack Heah](https://www.linkedin.com/in/jack-heah-2b1b19249/): Treasurer
 
-- [Bhavy Metakar](https://www.linkedin.com/in/bhavy-metakar/): Advisor
-- [Oli Sharratt](https://www.linkedin.com/in/oli-sharratt/): Advisor
+- [Bhavy Metakar](https://www.linkedin.com/in/bhavy-metakar/): Technical Workflow Advisor and Training Specialist 
+- [Oli Sharratt](https://www.linkedin.com/in/oli-sharratt/): Technical Workflow Advisor and Training Specialist 
 #### Events
 - Shahd Ahmed: Head of Events
 - [Stef Paraskevopoulos Pilello](https://www.linkedin.com/in/stefanos-paraskevopoulos-pilello-697972280/): Event Manager
