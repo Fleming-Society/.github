@@ -27,33 +27,31 @@ This is the UCL Fleming Society. We are the Electronics and Electrical Engineeri
 - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
 - [4 Degrees-of-Freedom Robotic Arm with Configurable Claw](https://github.com/Fleming-Society/Microservo-Robotic-Arm)
 
-## Committee Members (2025-2026)
+## Committee Members (2026-2027)
 #### Leadership
-- [Yung Cheung Zhou](https://www.linkedin.com/in/yungcz/): President
-- [Alice Yeung](https://www.linkedin.com/in/yeung-chiiok-b27b66272): Vice President
-- [Jack Heah](https://www.linkedin.com/in/jack-heah-2b1b19249/): Treasurer
-
-- [Bhavy Metakar](https://www.linkedin.com/in/bhavy-metakar/): Technical Workflow Advisor and Training Specialist 
-- [Oli Sharratt](https://www.linkedin.com/in/oli-sharratt/): Technical Workflow Advisor and Training Specialist 
-#### Events
-- Shahd Ahmed: Head of Events
-- [Stef Paraskevopoulos Pilello](https://www.linkedin.com/in/stefanos-paraskevopoulos-pilello-697972280/): Event Manager
-- [Omar Guedira](https://www.linkedin.com/in/omar-guedira/): Event Manager
-- [Mohd Abu Anas Chowdhury](https://www.linkedin.com/in/mohd-abu-anas-chowdhury-99a643373/): Event Manager
+- [Alice Yeung](https://www.linkedin.com/in/chiiok-yeung-b27b66272/): President
+- [John Cave](https://www.linkedin.com/in/john-cave-b00b21319/): Vice President
+- [Chloe Li](https://www.linkedin.com/in/chloe-li-ba297a388/): Treasurer
 #### Projects
-- Taylan Arslan: Head of Projects
-- [Mohd Abu Anas Chowdhury](https://www.linkedin.com/in/mohd-abu-anas-chowdhury-99a643373/): Project Manager
-- Chloe Yang: Project Manager
-- [Akhilesh Sivananthan](https://www.linkedin.com/in/akhilesh-sivananthan/): Project Manager
+- [Mohd Abu Anas Chowdhury](https://www.linkedin.com/in/mohd-abu-anas-chowdhury-99a643373/): Head of Projects
+- Hao Xuan Ng: Project Manager
+- [Yijun (Alice) Dong](https://www.linkedin.com/in/yijun-dong-84baa9383/): Project Manager
+- [Paul Vincent Bezzina](https://www.linkedin.com/in/paulvincentbezzina/): Project Manager
+- [Shuchang (Wally) Pan](https://www.linkedin.com/in/shuchang-pan-1970a6389/): Project Manager
+#### Events
+- Heungchin (Leena) Mo: Head of Events
+- [Ayman Hakiem Hidyatul Khair](https://www.linkedin.com/in/ayman-hakiem-hidyatul-khair-762a4420a/): Events Manager
+- Hao Xuan Ng: Events Manager
+- [Oluwaseyitan (Seyi) Bakare](https://www.linkedin.com/in/oluwaseyitan-bakare-b6b6b026a/): Events Manager
 #### Operations
-- [Yan Deng Ong](https://www.linkedin.com/in/yan-deng-ong/): Head of Operations
-- [Ayman Hakiem Hidyatul Khair](https://www.linkedin.com/in/ayman-hakiem-hidyatul-khair-762a4420a/): Welfare Officer & Photographer
+- [Yijun (Alice) Dong](https://www.linkedin.com/in/yijun-dong-84baa9383/): Head of Operations
+- [Paul Vincent Bezzina](https://www.linkedin.com/in/paulvincentbezzina/): Sponsorship Manager
+- Dhanush Hakiem Bin Hidyatul Khair: Sponsorship Manager
+- [Chloe Li](https://www.linkedin.com/in/chloe-li-ba297a388/): Media Manager
+- [Mariana Namie Guima](https://www.linkedin.com/in/mariana-namie-guima-b5592b243/): Media Manager
+- [Ayman Hakiem Hidyatul Khair](https://www.linkedin.com/in/ayman-hakiem-hidyatul-khair-762a4420a/): Photographer
+- David Du: Web Developer
 - [Erick Passos](https://www.linkedin.com/in/erickcpassos/): Web Developer
-- Mandy Gong: Media Manager
-- [Akhilesh Sivananthan](https://www.linkedin.com/in/akhilesh-sivananthan/): Outreach Manager
-- Taylan Arslan: Outreach Manager
-- [Dong Liu](https://www.linkedin.com/in/dong-liu-509069348/): Photographer
+- Maya Griffiths: Welfare Manager
 
 To see previous committee members, [click here](Past_Committee_Members.md).
-
-
