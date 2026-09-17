@@ -1,11 +1,11 @@
-# Welcome to the Fleming Society GitHub Page
+# UCL Fleming Society
 
 ## Introduction
 Hello everyone,
 
-This is the UCL Fleming Society. We are the Electronics and Electrical Engineering (EEE) Departmental Society at UCL - with over 600 members, we engaged a total 8,000 student-hours across 42 events in the 2024-25 academic year, making us one of the UK's largest departmental societies.
+Welcome to the UCL Fleming Society GitHub page. We are the Electronics and Electrical Engineering (EEE) Departmental Society at UCL - with over 600 members, we engaged a total 8,000 student-hours across 42 events in the 2024-25 academic year, making us one of the UK's largest departmental societies.
 
-[Website](https://flemingsociety.com/) | [Instragram](https://www.instagram.com/ucl.flemingsoc/) | [Linkedin](www.linkedin.com/company/ucl-fleming-society/)
+[Website](https://flemingsociety.com/) | [Instagram](https://www.instagram.com/uclflemingsociety/) | [Linkedin](www.linkedin.com/company/ucl-fleming-society/)
 
 ## Past Events
 - Project X (Yearly STEM outreach projects)
@@ -20,10 +20,10 @@ This is the UCL Fleming Society. We are the Electronics and Electrical Engineeri
 - Collaborations - with a range of UCL societies, and other London universities
 
 ## Past Projects
+- [Maze Solving Robot](https://github.com/Fleming-Society/Open-Day-Robots)
 - [Servo Catapult](https://github.com/Fleming-Society/Servo-Catapult)
-- [Updated Breadboard robot](https://github.com/Fleming-Society/Breadboard-Robot)
-- [Mood Credit Card](github.com/Fleming-Society/Mood-Credit-Card)
-- [Breadboard Size Obstacle Avoiding Drone](https://github.com/Junzhe-Chen/Two-wheels-breadboard-drone)
+- [Breadboard Robot](https://github.com/Fleming-Society/Breadboard-Robot)
+- [Mood Credit Card](https://github.com/Fleming-Society/Mood-Credit-Card)
 - [Fully Discrete Analog PWM Modulator with Adjustable Frequency](https://github.com/Junzhe-Chen/PWM-Modulator-Circuit)
 - [4 Degrees-of-Freedom Robotic Arm with Configurable Claw](https://github.com/Fleming-Society/Microservo-Robotic-Arm)
 
@@ -54,4 +54,4 @@ This is the UCL Fleming Society. We are the Electronics and Electrical Engineeri
 - [Erick Passos](https://www.linkedin.com/in/erickcpassos/): Web Developer
 - Maya Griffiths: Welfare Manager
 
-To see previous committee members, [click here](Past_Committee_Members.md).
+See previous committee members [here](Past_Committee_Members.md).
